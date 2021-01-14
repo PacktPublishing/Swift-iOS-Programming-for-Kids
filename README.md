@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/swift-ios-programming-for-kids/9781787120747)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1787120740).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Swift iOS Programming for Kids
 
 This is the code repository for [Swift iOS Programming for Kids](https://www.packtpub.com/application-development/swift-3-programming-kids?utm_source=github&utm_medium=repository&utm_campaign=9781787120747), published by [Packt](www.packtpub.com). It contains all the supporting project files necessary to work through the book from start to finish.
